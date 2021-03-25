@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74902" started-at="2020-01-14T10:49:53 CET" finished-at="2020-01-14T10:51:08 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74902" started-at="2020-01-14T10:49:53 CET" finished-at="2020-01-14T10:51:08 CET">
+      <class name="tests.TestAccesPageCeationCompte">
+        <test-method status="PASS" signature="AccesPageInscription()[pri:1, instance:tests.TestAccesPageCeationCompte@32709393]" name="AccesPageInscription" duration-ms="26798" started-at="2020-01-14T10:49:53 CET" finished-at="2020-01-14T10:50:20 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccesPageInscription -->
+      </class> <!-- tests.TestAccesPageCeationCompte -->
+      <class name="communs.FermerPage">
+        <test-method status="PASS" signature="CloseBrowser()[pri:5, instance:communs.FermerPage@3d99d22e]" name="CloseBrowser" duration-ms="1300" started-at="2020-01-14T10:50:20 CET" finished-at="2020-01-14T10:50:21 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- communs.FermerPage -->
+      <class name="tests.TestCreationCompteDataBase">
+        <test-method status="PASS" signature="CreerComptedataBase()[pri:2, instance:tests.TestCreationCompteDataBase@49fc609f]" name="CreerComptedataBase" duration-ms="46659" started-at="2020-01-14T10:50:21 CET" finished-at="2020-01-14T10:51:08 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreerComptedataBase -->
+      </class> <!-- tests.TestCreationCompteDataBase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
